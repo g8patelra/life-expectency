@@ -6,4 +6,4 @@
 #       Typically the cache.abf SHOULD NOT be added to Git.
 #
 **/.pbi/cache.abf
-#**/.pbip
+**/.pbip
